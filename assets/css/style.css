@@ -11,16 +11,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Inconsolata", monospace;
-  color: #702515;
+  color: #156370;
 }
 
 a {
-  color: #702515;
+  color: #156370;
   text-decoration: none;
 }
 
 a:hover {
-  color: #000;
+  color: #156370;
 }
 
 h1,
